@@ -1,0 +1,314 @@
+2021-06-08 11:01:21 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-06-08 11:01:29 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started274100821
+2021-06-08 11:01:34 [INFO ] [Base] - [closeBrowser] Scenario Completed: Validate new user can be registered with all details
+2021-06-08 11:01:34 [INFO ] [Base] - [closeBrowser] Scenario Status is: passed
+2021-06-08 11:09:33 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-06-08 11:09:39 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started458817438
+2021-06-08 11:09:40 [INFO ] [Hooks] - [setUp] Scenario Started: Validate new user can be registered with all details
+2021-06-08 11:09:40 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-06-08 11:09:41 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1015799131
+2021-06-08 11:09:45 [INFO ] [Base] - [closeBrowser] Scenario Completed: Validate new user can be registered with all details
+2021-06-08 11:09:45 [INFO ] [Base] - [closeBrowser] Scenario Status is: passed
+2021-06-08 11:09:46 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Validate new user can be registered with all details
+2021-06-08 11:09:46 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2021-06-08 11:11:48 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-06-08 11:11:51 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started6559830
+2021-06-08 11:11:57 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Validate new user can be registered with all details
+2021-06-08 11:11:57 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2021-06-08 11:20:24 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-06-08 11:20:27 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1746578747
+2021-06-08 11:20:31 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Validate new user can be registered with all details
+2021-06-08 11:20:31 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2021-06-08 11:22:39 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-06-08 11:22:41 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started1323514615
+2021-06-08 11:22:47 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Validate new user can be registered with all details
+2021-06-08 11:22:47 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2021-06-08 11:31:29 [INFO ] [Browser] - [startBrowser] Selected Browser is: headless
+2021-06-08 11:31:32 [INFO ] [Browser] - [startBrowser] Headless Chrome Browser is Started1323514615
+2021-06-08 11:31:37 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Validate new user can be registered with all details
+2021-06-08 11:31:37 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2021-06-08 12:57:19 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-06-08 12:57:27 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started 1844942991
+2021-06-08 12:57:27 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Validate new user can be registered with all details
+2021-06-08 12:57:27 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-06-08 12:59:03 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-06-08 12:59:06 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started 1323514615
+2021-06-08 12:59:06 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Validate new user can be registered with all details
+2021-06-08 12:59:06 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-06-08 13:15:09 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-06-08 13:15:21 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started 1323514615
+2021-06-08 13:15:21 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Validate new user can be registered with all details
+2021-06-08 13:15:21 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-06-08 13:20:34 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-06-08 13:20:44 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started 1323514615
+2021-06-08 13:20:45 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Validate new user can be registered with all details
+2021-06-08 13:20:45 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-06-08 13:23:16 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-06-08 13:23:19 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started 334099170
+2021-06-08 13:23:38 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Validate new user can be registered with all details
+2021-06-08 13:23:38 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-06-08 13:24:26 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-06-08 13:24:30 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started 334099170
+2021-06-08 13:25:23 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2021-06-08 13:25:37 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-06-08 13:25:41 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started 334099170
+2021-06-08 13:26:54 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2021-06-08 13:27:02 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-06-08 13:27:05 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started 334099170
+2021-06-08 13:27:34 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Validate new user can be registered with all details
+2021-06-08 13:27:34 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2021-06-08 13:28:37 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-06-08 13:28:40 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started 806572546
+2021-06-08 13:29:31 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-06-08 13:29:35 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started 806572546
+2021-06-08 13:29:41 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2021-06-08 13:30:08 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Validate new user can be registered with all details
+2021-06-08 13:30:08 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2021-06-08 13:39:01 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-06-08 13:39:05 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started 806572546
+2021-06-08 13:39:35 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Validate new user can be registered with all details
+2021-06-08 13:39:35 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2021-06-08 13:45:45 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-06-08 13:45:49 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started 806572546
+2021-06-08 13:46:18 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Validate new user can be registered with all details
+2021-06-08 13:46:18 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2021-06-08 13:50:13 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-06-08 13:50:18 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started 813131188
+2021-06-08 13:50:47 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Validate new user can be registered with all details
+2021-06-08 13:50:47 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: undefined
+2021-06-08 13:50:48 [INFO ] [Hooks] - [setUp] Scenario Started: Validate new user cannot be registered without mandatory inputs
+2021-06-08 13:50:48 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-06-08 13:50:52 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started 1474072872
+2021-06-08 13:51:27 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Validate new user cannot be registered without mandatory inputs
+2021-06-08 13:51:27 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: undefined
+2021-06-08 13:53:40 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-06-08 13:53:44 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started 806572546
+2021-06-08 13:54:13 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Validate new user can be registered with all details
+2021-06-08 13:54:13 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2021-06-08 13:54:14 [INFO ] [Hooks] - [setUp] Scenario Started: Validate new user cannot be registered without mandatory inputs
+2021-06-08 13:54:14 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-06-08 13:54:17 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started 1740797856
+2021-06-08 13:54:45 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Validate new user cannot be registered without mandatory inputs
+2021-06-08 13:54:45 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-06-08 13:57:07 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-06-08 13:57:11 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started 806572546
+2021-06-08 13:57:41 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Validate new user can be registered with all details
+2021-06-08 13:57:41 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2021-06-08 13:57:42 [INFO ] [Hooks] - [setUp] Scenario Started: Validate new user cannot be registered without mandatory inputs
+2021-06-08 13:57:42 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-06-08 13:57:45 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started 1053695609
+2021-06-08 13:58:14 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Validate new user cannot be registered without mandatory inputs
+2021-06-08 13:58:14 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-06-08 14:34:43 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-06-08 14:34:51 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started 806572546
+2021-06-08 14:35:22 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Validate new user can be registered with all details
+2021-06-08 14:35:22 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2021-06-08 14:35:22 [INFO ] [Hooks] - [setUp] Scenario Started: Validate new user cannot be registered without mandatory inputs
+2021-06-08 14:35:22 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-06-08 14:35:28 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started 1740797856
+2021-06-08 14:35:53 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Validate new user cannot be registered without mandatory inputs
+2021-06-08 14:35:53 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2021-06-08 18:44:33 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-06-08 18:44:40 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started 1723498053
+2021-06-08 18:44:45 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Validate Login with valid and invalid credentials
+2021-06-08 18:44:45 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: undefined
+2021-06-11 09:00:41 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-06-11 09:00:49 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started 394424498
+2021-06-11 09:00:54 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Validate Login with valid and invalid credentials
+2021-06-11 09:00:54 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: undefined
+2021-06-11 09:00:55 [INFO ] [Hooks] - [setUp] Scenario Started: Validate Login with valid and invalid credentials
+2021-06-11 09:00:55 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-06-11 09:00:57 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started 929985841
+2021-06-11 09:01:02 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Validate Login with valid and invalid credentials
+2021-06-11 09:01:02 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: undefined
+2021-06-11 09:09:06 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-06-11 09:09:09 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started 1797159635
+2021-06-11 09:09:16 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Validate Login with valid and invalid credentials
+2021-06-11 09:09:16 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-06-11 09:09:17 [INFO ] [Hooks] - [setUp] Scenario Started: Validate Login with valid and invalid credentials
+2021-06-11 09:09:17 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-06-11 09:09:20 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started 753162875
+2021-06-11 09:09:27 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Validate Login with valid and invalid credentials
+2021-06-11 09:09:27 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-06-11 09:13:00 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-06-11 09:13:03 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started 1797159635
+2021-06-11 09:13:10 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Validate Login with valid and invalid credentials
+2021-06-11 09:13:10 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2021-06-11 09:13:10 [INFO ] [Hooks] - [setUp] Scenario Started: Validate Login with valid and invalid credentials
+2021-06-11 09:13:10 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-06-11 09:13:12 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started 31906520
+2021-06-11 09:13:18 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Validate Login with valid and invalid credentials
+2021-06-11 09:13:18 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2021-06-11 09:15:37 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-06-11 09:15:41 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started 2017530134
+2021-06-11 09:15:46 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Validate Login with valid and invalid credentials
+2021-06-11 09:15:46 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2021-06-11 09:15:47 [INFO ] [Hooks] - [setUp] Scenario Started: Validate Login with valid and invalid credentials
+2021-06-11 09:15:47 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-06-11 09:15:49 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started 775741122
+2021-06-11 09:15:55 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Validate Login with valid and invalid credentials
+2021-06-11 09:15:55 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2021-06-11 09:15:56 [INFO ] [Hooks] - [setUp] Scenario Started: Validate new user can be registered with all details
+2021-06-11 09:15:56 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-06-11 09:15:57 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started 1266435158
+2021-06-11 09:16:26 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Validate new user can be registered with all details
+2021-06-11 09:16:26 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2021-06-11 09:16:27 [INFO ] [Hooks] - [setUp] Scenario Started: Validate new user cannot be registered without mandatory inputs
+2021-06-11 09:16:27 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-06-11 09:16:29 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started 77738832
+2021-06-11 09:16:56 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Validate new user cannot be registered without mandatory inputs
+2021-06-11 09:16:56 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2021-06-11 09:19:21 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-06-11 09:19:27 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started 1797159635
+2021-06-11 09:19:34 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Validate Login with valid and invalid credentials
+2021-06-11 09:19:34 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2021-06-11 09:19:34 [INFO ] [Hooks] - [setUp] Scenario Started: Validate Login with valid and invalid credentials
+2021-06-11 09:19:34 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-06-11 09:19:37 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started 31906520
+2021-06-11 09:19:43 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Validate Login with valid and invalid credentials
+2021-06-11 09:19:43 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2021-06-11 09:20:24 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-06-11 09:20:28 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started 1797159635
+2021-06-11 09:20:33 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Validate Login with valid and invalid credentials
+2021-06-11 09:20:33 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2021-06-11 09:20:34 [INFO ] [Hooks] - [setUp] Scenario Started: Validate Login with valid and invalid credentials
+2021-06-11 09:20:34 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-06-11 09:20:36 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started 31906520
+2021-06-11 09:20:43 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Validate Login with valid and invalid credentials
+2021-06-11 09:20:43 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2021-06-11 09:39:11 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-06-11 09:39:22 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started 1797159635
+2021-06-11 09:39:27 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Validate user can able to reset password
+2021-06-11 09:39:27 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: undefined
+2021-06-11 09:39:28 [INFO ] [Hooks] - [setUp] Scenario Started: Validate user can able to reset password
+2021-06-11 09:39:28 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-06-11 09:39:32 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started 630122462
+2021-06-11 09:39:37 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Validate user can able to reset password
+2021-06-11 09:39:37 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: undefined
+2021-06-13 14:16:21 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-06-13 14:16:32 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started 1794068152
+2021-06-13 14:16:36 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Validate user can able to reset password
+2021-06-13 14:16:36 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-06-13 14:16:38 [INFO ] [Hooks] - [setUp] Scenario Started: Validate user can able to reset password
+2021-06-13 14:16:38 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-06-13 14:16:43 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started 1069571746
+2021-06-13 14:16:46 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Validate user can able to reset password
+2021-06-13 14:16:46 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-06-13 14:17:49 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-06-13 14:17:54 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started 1625932709
+2021-06-13 14:19:38 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-06-13 14:19:41 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started 1797159635
+2021-06-13 14:20:04 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Validate user can able to reset password
+2021-06-13 14:20:04 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2021-06-13 14:20:26 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-06-13 14:20:30 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started 1797159635
+2021-06-13 14:20:55 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Validate user can able to reset password
+2021-06-13 14:20:55 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2021-06-13 14:20:56 [INFO ] [Hooks] - [setUp] Scenario Started: Validate user can able to reset password
+2021-06-13 14:20:56 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-06-13 14:20:58 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started 2066945445
+2021-06-13 14:21:22 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Validate user can able to reset password
+2021-06-13 14:21:22 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2021-06-13 14:21:23 [INFO ] [Hooks] - [setUp] Scenario Started: Validate user can able to reset password
+2021-06-13 14:21:23 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-06-13 14:21:25 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started 1531782631
+2021-06-13 14:21:48 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Validate user can able to reset password
+2021-06-13 14:21:48 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2021-06-13 14:27:10 [INFO ] [Browser] - [startBrowser] Selected Browser is: headless
+2021-06-13 14:27:14 [INFO ] [Browser] - [startBrowser] Headless Chrome Browser is Started 2017530134
+2021-06-13 14:27:51 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Validate Login with valid and invalid credentials
+2021-06-13 14:27:51 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-06-13 14:27:52 [INFO ] [Hooks] - [setUp] Scenario Started: Validate Login with valid and invalid credentials
+2021-06-13 14:27:52 [INFO ] [Browser] - [startBrowser] Selected Browser is: headless
+2021-06-13 14:27:56 [INFO ] [Browser] - [startBrowser] Headless Chrome Browser is Started 57264571
+2021-06-13 14:28:28 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Validate Login with valid and invalid credentials
+2021-06-13 14:28:28 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-06-13 14:28:29 [INFO ] [Hooks] - [setUp] Scenario Started: Validate user cannot able to login without username and/or password
+2021-06-13 14:28:29 [INFO ] [Browser] - [startBrowser] Selected Browser is: headless
+2021-06-13 14:28:32 [INFO ] [Browser] - [startBrowser] Headless Chrome Browser is Started 197195067
+2021-06-13 14:29:05 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Validate user cannot able to login without username and/or password
+2021-06-13 14:29:05 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-06-13 14:29:06 [INFO ] [Hooks] - [setUp] Scenario Started: Validate user cannot able to login without username and/or password
+2021-06-13 14:29:06 [INFO ] [Browser] - [startBrowser] Selected Browser is: headless
+2021-06-13 14:29:08 [INFO ] [Browser] - [startBrowser] Headless Chrome Browser is Started 1621939721
+2021-06-13 14:29:40 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Validate user cannot able to login without username and/or password
+2021-06-13 14:29:40 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-06-13 14:29:41 [INFO ] [Hooks] - [setUp] Scenario Started: Validate user cannot able to login without username and/or password
+2021-06-13 14:29:41 [INFO ] [Browser] - [startBrowser] Selected Browser is: headless
+2021-06-13 14:29:43 [INFO ] [Browser] - [startBrowser] Headless Chrome Browser is Started 917704874
+2021-06-13 14:30:15 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Validate user cannot able to login without username and/or password
+2021-06-13 14:30:15 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-06-13 14:30:16 [INFO ] [Hooks] - [setUp] Scenario Started: Validate user can able to reset password
+2021-06-13 14:30:16 [INFO ] [Browser] - [startBrowser] Selected Browser is: headless
+2021-06-13 14:30:17 [INFO ] [Browser] - [startBrowser] Headless Chrome Browser is Started 1518529528
+2021-06-13 14:30:50 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Validate user can able to reset password
+2021-06-13 14:30:50 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-06-13 14:30:50 [INFO ] [Hooks] - [setUp] Scenario Started: Validate user can able to reset password
+2021-06-13 14:30:50 [INFO ] [Browser] - [startBrowser] Selected Browser is: headless
+2021-06-13 14:30:52 [INFO ] [Browser] - [startBrowser] Headless Chrome Browser is Started 1415937490
+2021-06-13 14:31:24 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Validate user can able to reset password
+2021-06-13 14:31:24 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-06-13 14:31:25 [INFO ] [Hooks] - [setUp] Scenario Started: Validate user can able to reset password
+2021-06-13 14:31:25 [INFO ] [Browser] - [startBrowser] Selected Browser is: headless
+2021-06-13 14:31:27 [INFO ] [Browser] - [startBrowser] Headless Chrome Browser is Started 1202653598
+2021-06-13 14:31:59 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Validate user can able to reset password
+2021-06-13 14:31:59 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-06-13 14:32:00 [INFO ] [Hooks] - [setUp] Scenario Started: Validate new user can be registered with all details
+2021-06-13 14:32:00 [INFO ] [Browser] - [startBrowser] Selected Browser is: headless
+2021-06-13 14:32:02 [INFO ] [Browser] - [startBrowser] Headless Chrome Browser is Started 1928983164
+2021-06-13 14:32:35 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Validate new user can be registered with all details
+2021-06-13 14:32:35 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-06-13 14:32:35 [INFO ] [Hooks] - [setUp] Scenario Started: Validate new user cannot be registered without mandatory inputs
+2021-06-13 14:32:35 [INFO ] [Browser] - [startBrowser] Selected Browser is: headless
+2021-06-13 14:32:37 [INFO ] [Browser] - [startBrowser] Headless Chrome Browser is Started 1144499207
+2021-06-13 14:33:10 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Validate new user cannot be registered without mandatory inputs
+2021-06-13 14:33:10 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-06-13 14:35:51 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-06-13 14:36:03 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started 2017530134
+2021-06-13 14:36:11 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Validate Login with valid and invalid credentials
+2021-06-13 14:36:11 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2021-06-13 14:36:12 [INFO ] [Hooks] - [setUp] Scenario Started: Validate Login with valid and invalid credentials
+2021-06-13 14:36:12 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-06-13 14:36:18 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started 775174220
+2021-06-13 14:36:24 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Validate Login with valid and invalid credentials
+2021-06-13 14:36:24 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2021-06-13 14:36:25 [INFO ] [Hooks] - [setUp] Scenario Started: Validate user cannot able to login without username and/or password
+2021-06-13 14:36:25 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-06-13 14:36:30 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started 1331946439
+2021-06-13 14:36:37 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Validate user cannot able to login without username and/or password
+2021-06-13 14:36:37 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2021-06-13 14:36:38 [INFO ] [Hooks] - [setUp] Scenario Started: Validate user cannot able to login without username and/or password
+2021-06-13 14:36:38 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-06-13 14:36:40 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started 2092066079
+2021-06-13 14:36:42 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Validate user cannot able to login without username and/or password
+2021-06-13 14:36:42 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2021-06-13 14:36:44 [INFO ] [Hooks] - [setUp] Scenario Started: Validate user cannot able to login without username and/or password
+2021-06-13 14:36:44 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-06-13 14:36:45 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started 1470400901
+2021-06-13 14:36:48 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Validate user cannot able to login without username and/or password
+2021-06-13 14:36:48 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2021-06-13 14:36:50 [INFO ] [Hooks] - [setUp] Scenario Started: Validate user can able to reset password
+2021-06-13 14:36:50 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-06-13 14:36:51 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started 1872417052
+2021-06-13 14:36:55 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Validate user can able to reset password
+2021-06-13 14:36:55 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2021-06-13 14:36:56 [INFO ] [Hooks] - [setUp] Scenario Started: Validate user can able to reset password
+2021-06-13 14:36:56 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-06-13 14:36:58 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started 1299885218
+2021-06-13 14:37:01 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Validate user can able to reset password
+2021-06-13 14:37:01 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2021-06-13 14:37:02 [INFO ] [Hooks] - [setUp] Scenario Started: Validate user can able to reset password
+2021-06-13 14:37:02 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-06-13 14:37:04 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started 1928224132
+2021-06-13 14:37:07 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Validate user can able to reset password
+2021-06-13 14:37:07 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2021-06-13 14:37:09 [INFO ] [Hooks] - [setUp] Scenario Started: Validate new user can be registered with all details
+2021-06-13 14:37:09 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-06-13 14:37:11 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started 1955049794
+2021-06-13 14:37:35 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Validate new user can be registered with all details
+2021-06-13 14:37:35 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2021-06-13 14:37:35 [INFO ] [Hooks] - [setUp] Scenario Started: Validate new user cannot be registered without mandatory inputs
+2021-06-13 14:37:35 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-06-13 14:37:37 [INFO ] [Browser] - [startBrowser] Chrome Browser is Started 366752671
+2021-06-13 14:38:01 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Validate new user cannot be registered without mandatory inputs
+2021-06-13 14:38:01 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
